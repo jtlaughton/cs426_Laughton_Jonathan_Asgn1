@@ -27,8 +27,13 @@ Fence: Broken Vector, link: https://assetstore.unity.com/packages/3d/props/exter
 Carpet Texture: https://freepbr.com/materials/carpet1/ (no author listed)
 
 Code Credit:
+
 CRT Destruction Script (I edited to add score to scoreManager): Pekdata, link: https://assetstore.unity.com/packages/3d/props/electronics/destroyable-retro-crt-monitor-prop-157334
 Record Player rotation script: Vis Games, link: https://assetstore.unity.com/packages/3d/props/interior/record-player-4249
 Score and PlayerMovement scripts: The ones from class, but edited to fit my needs
+
+Audio:
+
+Background Music: Teknoaxe, link: https://www.youtube.com/watch?v=tZDRDwcsG9o
 
 Video: https://www.youtube.com/watch?v=2y93iT2p2JU&feature=youtu.be
