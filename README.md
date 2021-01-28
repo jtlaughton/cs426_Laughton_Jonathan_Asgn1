@@ -37,3 +37,8 @@ Audio:
 Background Music: Teknoaxe, link: https://www.youtube.com/watch?v=tZDRDwcsG9o
 
 Video: https://www.youtube.com/watch?v=2y93iT2p2JU&feature=youtu.be
+
+Comments:
+
+Name 1: Amy Ngo
+Name 2: Juan Camacho
